@@ -236,7 +236,7 @@ function create_config( )
 end
 
 function on_our_id (id)
- 195473011,126712741 = id
+your_id  =  195473011,126712741
 end
 
 function on_user_update (user, what)
